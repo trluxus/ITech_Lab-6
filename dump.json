@@ -1,0 +1,4 @@
+{"_id":{"$numberInt":"0"},"netname":"master-pc","guarantee":{"$date":{"$numberLong":"1590868800000"}},"cpu":"Intel Core i7","software":["Visual Studio","VS Code","VLC","MS Office"],"RAM":{"$numberInt":"32"},"HDD":{"$numberInt":"2000"}}
+{"_id":{"$numberInt":"1"},"netname":"worker-1","guarantee":{"$date":{"$numberLong":"1590868800000"}},"cpu":"Intel Core i5","software":["VS Code","VLC"],"RAM":{"$numberInt":"8"},"HDD":{"$numberInt":"200"}}
+{"_id":{"$numberInt":"2"},"netname":"worker-2","guarantee":{"$date":{"$numberLong":"1556654400000"}},"cpu":"Intel Core i3","software":["VLC","MS Office"],"RAM":{"$numberInt":"8"},"HDD":{"$numberInt":"200"}}
+{"_id":{"$numberInt":"3"},"netname":"worker-3","guarantee":{"$date":{"$numberLong":"1588276800000"}},"cpu":"Intel Core i3","software":["MS Office"],"RAM":{"$numberInt":"8"},"HDD":{"$numberInt":"200"}}
